@@ -3,8 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "scripts": {
-  },
+  "scripts": {},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/egorartemenkov/lyrichero.git"
@@ -13,5 +12,8 @@
   "bugs": {
     "url": "https://github.com/egorartemenkov/lyrichero/issues"
   },
-  "homepage": "https://github.com/egorartemenkov/lyrichero#readme"
+  "homepage": "https://github.com/egorartemenkov/lyrichero#readme",
+  "devDependencies": {
+    "webpack": "^5.91.0"
+  }
 }
