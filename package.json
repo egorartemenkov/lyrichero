@@ -1,0 +1,17 @@
+{
+  "name": "lyrichero",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/egorartemenkov/lyrichero.git"
+  },
+  "author": "lyrichero",
+  "bugs": {
+    "url": "https://github.com/egorartemenkov/lyrichero/issues"
+  },
+  "homepage": "https://github.com/egorartemenkov/lyrichero#readme"
+}
