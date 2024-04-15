@@ -13,7 +13,7 @@
     "url": "https://github.com/egorartemenkov/lyrichero/issues"
   },
   "homepage": "https://github.com/egorartemenkov/lyrichero#readme",
-  "devDependencies": {
+  "dependencies": {
     "webpack": "^5.91.0"
   }
 }
